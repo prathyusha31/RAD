@@ -1,0 +1,25 @@
+Pseudo Code for Making a Cup of Tea for 1 Person.
+-------------------------------------------------
+Inputs: Milk,tea bag,sugar,cup,and kettle.
+Output: Tea
+Process Steps/Algorithm:  
+Start
+	Organise everything together;
+	Empty kettle;
+	Plug in kettle;
+	Put tea bag in the cup;
+	Pour water up to the required level into kettle;
+	Wait for the water to boil;
+	Pour the hot water from kettle to the cup;
+	Wait for 2 minutes;
+	Remove tea bag with spoon/fork from the cup;
+	Add milk as desired;
+	If sugar is required:
+		add sugar;
+	else
+		do nothing;
+	
+	Serve;
+Stop.
+ 
+
